@@ -1,5 +1,5 @@
 {
-  "name": "rongeb/file-utils",
+  "name": "rongeb/fileutils-for-php",
   "description": "Basic but useful functions to manage files and images",
   "minimum-stability": "stable",
   "authors": [
