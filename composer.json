@@ -1,5 +1,6 @@
 {
   "name": "rongeb/fileutils-for-php",
+  "license": "MIT",
   "description": "Basic but useful functions to manage files and images",
   "minimum-stability": "stable",
   "authors": [
